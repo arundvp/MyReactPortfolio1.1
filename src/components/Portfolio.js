@@ -2,7 +2,7 @@ import React from "react";
 import Project from "./Project";
 import RecipeConcierge from "../images/RecipeConcierge.jpg";
 import TaskTitan from "../images/TaskTitan.jpg";
-import AzureStack from "../images/AzureStack.jpg";
+import WedLoc from "../images/WedLoc.jpg";
 import OCIStack from "../images/OCIStack.jpg";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../css/Portfolio.css";
@@ -35,9 +35,13 @@ function Portfolio() {
                 "https://github.com/arundvp/Task-Titan",
             },
             {
-              title: "Azure Stack",
-              description: "Azure Stack is a hybrid cloud platform offered by Microsoft that allows organizations to build and deploy applications across both on-premises and cloud environments. Azure Stack brings the power of Azure services and capabilities to your own datacenter, enabling consistent development, management, and deployment experiences",
-              imgSrc: AzureStack
+              title: "WedLoc",
+              description: "A website for wedding photographers/videographers to showcase their clients' wedding and give their clients a place to share their wedding with their guests.",
+              imgSrc: WedLoc,
+              deployedLink:
+                "https://wedloc-84c89e3ae29d.herokuapp.com/",
+              githubLink:
+                "https://github.com/markthos/wedloc",
             },
             {
               title: "OCI Stack",
