@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/MyReactPortfolio1.1/static/css/main.8fa1e3e7.css",
-    "main.js": "/MyReactPortfolio1.1/static/js/main.743c33f2.js",
+    "main.js": "/MyReactPortfolio1.1/static/js/main.a2b70121.js",
     "static/media/Portfolio_Headshot.png": "/MyReactPortfolio1.1/static/media/Portfolio_Headshot.15f877f38d543d6e8dcc.png",
+    "static/media/WedLoc.jpg": "/MyReactPortfolio1.1/static/media/WedLoc.d3007f4f666ab5367e7b.jpg",
     "static/media/OCIStack.jpg": "/MyReactPortfolio1.1/static/media/OCIStack.300063710258c3987022.jpg",
     "static/media/RecipeConcierge.jpg": "/MyReactPortfolio1.1/static/media/RecipeConcierge.6fd23c353376b71689ef.jpg",
     "static/media/TaskTitan.jpg": "/MyReactPortfolio1.1/static/media/TaskTitan.03af7ffd9a4dbf5673b0.jpg",
     "static/media/arundvp.pdf": "/MyReactPortfolio1.1/static/media/arundvp.b0309fafdce059d65718.pdf",
-    "static/media/WedLoc.jpg": "/MyReactPortfolio1.1/static/media/WedLoc.9a571714466b099224b9.jpg",
     "index.html": "/MyReactPortfolio1.1/index.html",
     "main.8fa1e3e7.css.map": "/MyReactPortfolio1.1/static/css/main.8fa1e3e7.css.map",
-    "main.743c33f2.js.map": "/MyReactPortfolio1.1/static/js/main.743c33f2.js.map"
+    "main.a2b70121.js.map": "/MyReactPortfolio1.1/static/js/main.a2b70121.js.map"
   },
   "entrypoints": [
     "static/css/main.8fa1e3e7.css",
-    "static/js/main.743c33f2.js"
+    "static/js/main.a2b70121.js"
   ]
 }
