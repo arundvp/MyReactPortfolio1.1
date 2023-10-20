@@ -41,7 +41,7 @@ function Portfolio() {
               deployedLink:
                 "https://wedloc-84c89e3ae29d.herokuapp.com/",
               githubLink:
-                "https://github.com/arundvp/wedloc",
+                "https://github.com/markthos/wedloc",
             },
             {
               title: "OCI Stack",
